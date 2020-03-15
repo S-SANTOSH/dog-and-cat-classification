@@ -1,3 +1,3 @@
 # dog-and-cat-classification
 This machine will identify weather the given image is of a dog or a cat.
-I can use VGG 16 to bring the accuracy but i havent classify the machine first , that is why i mixed 2 dataset of dog and cat to bring the accuracy and it works
+The dataset is taken from kaggle as well as different website. more dataset is taken to bring accuracy
